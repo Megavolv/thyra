@@ -3,8 +3,6 @@
 # Set the color variable
 green='\033[0;33m'
 magenta='\033[0;35m'
-
-
 # Clear the color after that
 clear='\033[0m'
 

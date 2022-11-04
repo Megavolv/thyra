@@ -3,7 +3,7 @@ linters:
     # unwanted
     - nonamedreturns
     # deprecated
-    - deadcode
+    #- deadcode
     - exhaustivestruct
     - golint
     - ifshort
@@ -12,7 +12,7 @@ linters:
     - nosnakecase
     - scopelint
     - structcheck
-    - varcheck
+    #- varcheck
     - goerr113 # we should decide first on how we would like to handle error internally
 
   presets:
